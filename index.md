@@ -11,8 +11,6 @@
 
 ### Selected Publications
 
-### Book Chapters
-
 ### Selected Awards
 
 ### Professional Activities
