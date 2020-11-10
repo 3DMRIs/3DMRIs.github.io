@@ -1,4 +1,4 @@
-### <font size=5>Hang Wenlong (杭文龙)/HomePage</font>
+### <font size=15>Hang Wenlong (杭文龙)/HomePage</font>
 -  Department of Computer Science and Technology, Nanjing Tech University
 -  Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
 -  Email: wlhang@njtech.edu.cn
