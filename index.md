@@ -1,7 +1,7 @@
 ### Hang Wenlong (杭文龙)/HomePage
-#### Department of Computer Science and Technology, Nanjing Tech University
-#### Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
-#### Email: wlhang@njtech.edu.cn
+Department of Computer Science and Technology, Nanjing Tech University
+Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
+Email: wlhang@njtech.edu.cn
 
 ### Publications
 
@@ -18,7 +18,7 @@
 - List
 
 1. Numbered
-2. List
+2. ListDepartment of Computer Science and Technology, Nanjing Tech University
 
 **Bold** and _Italic_ and `Code` text
 
