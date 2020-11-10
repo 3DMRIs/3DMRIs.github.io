@@ -14,9 +14,5 @@
 ### Selected Awards
 
 ### Professional Activities
-- Bulleted
-- List
 
-![图片描述](图片链接)
-![证件照](/zhengjianzhao.jpg)
 
